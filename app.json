@@ -1,0 +1,34 @@
+{
+  "id": "651a8b33-2363-427b-88ba-d2382c7d46d4",
+  "name": "Spotify Integration",
+  "publisher": "Volodymyr Dvernytskyi",
+  "version": "1.0.0.0",
+  "brief": "https://vld-navv.com/",
+  "description": "https://vld-navv.com/",
+  "privacyStatement": "https://vld-navv.com/",
+  "EULA": "https://vld-navv.com/",
+  "help": "https://vld-navv.com/",
+  "url": "https://vld-navv.com/",
+  "logo": "./Logo/Logo.png",
+  "dependencies": [
+    {
+      "id": "abffecdf-7bf2-4321-ab3f-6ee7fc3b9921",
+      "publisher": "MSN Raju",
+      "name": "Generic OAuth 2.0 Authorization",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 60000,
+      "to": 61000
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://vld-navv.com/",
+  "showMyCode": true,
+  "runtime": "6.0",
+  "features": ["TranslationFile"]
+}

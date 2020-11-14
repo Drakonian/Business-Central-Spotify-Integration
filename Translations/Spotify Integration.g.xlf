@@ -1,0 +1,504 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Spotify Integration">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 571804879 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SBC Spotify General Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Spotify General Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 571804879 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Spotify General Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 571804879 - Field 2843235200 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spotify OAuth settings</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Spotify General Setup - Field Spotify OAuth settings - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 571804879 - Field 2128778439 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Base API URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Spotify General Setup - Field Spotify API URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 571804879 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spotify General Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Spotify General Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 571804879 - Control 2128778439 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the base Spotify URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Spotify General Setup - Control Spotify API URL - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 571804879 - Control 2843235200 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Spotify OAuth settings</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Spotify General Setup - Control Spotify OAuth settings - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 962594878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spotify Playlist</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Spotify Playlist - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 962594878 - Field 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Spotify Playlist - Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 962594878 - Field 1014400223 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Collaborative</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Spotify Playlist - Field Collaborative - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 962594878 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Spotify Playlist - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 962594878 - Field 3254875051 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Href</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Spotify Playlist - Field Href - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 962594878 - Field 320775665 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Image</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Spotify Playlist - Field Image - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 962594878 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Spotify Playlist - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 962594878 - Field 2892678290 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Owner Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Spotify Playlist - Field Owner Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 962594878 - Field 290730440 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Owner Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Spotify Playlist - Field Owner Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 962594878 - Field 3064246819 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Public</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Spotify Playlist - Field Public - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 962594878 - Field 1674786027 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Snapshot Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Spotify Playlist - Field Snapshot Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 962594878 - Field 3109574375 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tracks Href</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Spotify Playlist - Field Tracks Href - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 962594878 - Field 4199011529 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tracks Count</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Spotify Playlist - Field Tracks Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 962594878 - Field 4084532624 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Image Url</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Spotify Playlist - Field Image Url - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3926202719 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Track</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Track - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3926202719 - Field 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Track - Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3926202719 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Track - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3926202719 - Field 1281344812 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Duration ms</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Track - Field Duration ms - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3926202719 - Field 2133551879 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Added At</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Track - Field Added At - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3926202719 - Field 3938414226 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Added by Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Track - Field Added by Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3926202719 - Field 3305980108 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Added by Url</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Track - Field Added by Url - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3926202719 - Field 2691710370 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Artist Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Track - Field Artist Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3926202719 - Field 4175780632 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Artist Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Track - Field Artist Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3926202719 - Field 3283994700 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Artist Href</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Track - Field Artist Href - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3926202719 - Field 2305924918 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Album Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Track - Field Album Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3926202719 - Field 2281996812 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Album Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Track - Field Album Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3926202719 - Field 3555517614 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Album Release Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Track - Field Album Release Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3926202719 - Field 2759915555 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Album Total Tracks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Track - Field Album Total Tracks - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3926202719 - Field 2358392739 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Album Image Href</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Track - Field Album Image Href - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3926202719 - Field 2027421380 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Album Image</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Track - Field Album Image - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3926202719 - Field 1514887835 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Track uri</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Track - Field Track uri - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3926202719 - Field 1774724355 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Track External URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SBC Track - Field Track External URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2604399214 - NamedType 1803812000" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request failed with HTTP Code:: %1 Request Body:: %2</source>
+          <note from="Developer" annotates="general" priority="2">%1 = HttpCode, %2 = RequestBody</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SBC Spotify API Mgt - NamedType RequestErr</note>
+        </trans-unit>
+        <trans-unit id="Page 2767167275 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spotify Playlists</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Spotify Playlists - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2767167275 - Control 415504711 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Spotify Playlists - Control Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2767167275 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Spotify Playlists - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2767167275 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Spotify Playlists - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2767167275 - Control 3254875051 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Href</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Spotify Playlists - Control Href - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2767167275 - Control 4199011529 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Tracks Count</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Spotify Playlists - Control Tracks Count - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2767167275 - Control 3109574375 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Tracks Href</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Spotify Playlists - Control Tracks Href - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2767167275 - Control 2892678290 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Owner Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Spotify Playlists - Control Owner Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2767167275 - Control 290730440 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Owner Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Spotify Playlists - Control Owner Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2767167275 - Control 1674786027 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Snapshot Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Spotify Playlists - Control Snapshot Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2767167275 - Control 1014400223 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Collaborative</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Spotify Playlists - Control Collaborative - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2767167275 - Control 3064246819 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Public</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Spotify Playlists - Control Public - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2767167275 - Action 845260847 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Load My Playlists</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Spotify Playlists - Action SBC Load My Playlists - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2767167275 - Action 845260847 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Load My Playlists</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Spotify Playlists - Action SBC Load My Playlists - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2767167275 - Action 3387073567 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Tracks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Spotify Playlists - Action SBC Show Tracks - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2767167275 - Action 3387073567 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Tracks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Spotify Playlists - Action SBC Show Tracks - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2767167275 - Action 1924757158 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add Tracks to Playlist</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Spotify Playlists - Action SBC Add Tracks to Playlist - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2767167275 - Action 1924757158 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add Tracks to Playlist</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Spotify Playlists - Action SBC Add Tracks to Playlist - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1848661706 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tracks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Tracks - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1848661706 - Control 415504711 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Tracks - Control Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1848661706 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Tracks - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1848661706 - Control 4175780632 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Artist Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Tracks - Control Artist Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1848661706 - Control 2691710370 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Artist Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Tracks - Control Artist Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1848661706 - Control 3283994700 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Artist Href</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Tracks - Control Artist Href - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1848661706 - Control 1281344812 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Duration ms</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Tracks - Control Duration ms - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1848661706 - Control 2281996812 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Album Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Tracks - Control Album Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1848661706 - Control 2305924918 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Album Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Tracks - Control Album Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1848661706 - Control 2358392739 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Album Image Href</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Tracks - Control Album Image Href - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1848661706 - Control 3555517614 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Album Release Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Tracks - Control Album Release Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1848661706 - Control 2759915555 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Album Total Tracks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Tracks - Control Album Total Tracks - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1848661706 - Control 2133551879 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Added At</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Tracks - Control Added At - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1848661706 - Control 3938414226 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Added by Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Tracks - Control Added by Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1848661706 - Control 3305980108 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Added by Url</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Tracks - Control Added by Url - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1848661706 - Action 1338583024 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete Track from Playlist</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Tracks - Action SBC Delete Track From Playlist - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1848661706 - Action 1338583024 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete Track from Playlist</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Tracks - Action SBC Delete Track From Playlist - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1848661706 - NamedType 767137758" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to remove tracks from the playlist?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Tracks - NamedType DeletionQst</note>
+        </trans-unit>
+        <trans-unit id="Page 3164803604 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Search Tracks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Search Tracks - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3164803604 - Control 4154177264 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Search String</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Search Tracks - Control SearchStringName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3164803604 - Control 4154177264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Search String</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Search Tracks - Control SearchStringName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3164803604 - Control 415504711 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Search Tracks - Control Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3164803604 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Search Tracks - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3164803604 - Control 4175780632 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Artist Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Search Tracks - Control Artist Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3164803604 - Control 2691710370 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Artist Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Search Tracks - Control Artist Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3164803604 - Control 3283994700 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Artist Href</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Search Tracks - Control Artist Href - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3164803604 - Control 1281344812 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Duration ms</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Search Tracks - Control Duration ms - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3164803604 - Control 2281996812 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Album Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Search Tracks - Control Album Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3164803604 - Control 2305924918 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Album Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Search Tracks - Control Album Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3164803604 - Control 2358392739 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Album Image Href</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Search Tracks - Control Album Image Href - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3164803604 - Control 3555517614 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Album Release Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Search Tracks - Control Album Release Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3164803604 - Control 2759915555 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Album Total Tracks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Search Tracks - Control Album Total Tracks - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3164803604 - Control 2133551879 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Added At</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Search Tracks - Control Added At - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3164803604 - Control 3938414226 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Added by Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Search Tracks - Control Added by Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3164803604 - Control 3305980108 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Added by Url</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SBC Search Tracks - Control Added by Url - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Enum 1959766256 - EnumValue 3392857849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>album</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SBC Search Type - EnumValue album - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1959766256 - EnumValue 3240063843 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>artist</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SBC Search Type - EnumValue artist - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1959766256 - EnumValue 1565785618 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>playlist</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SBC Search Type - EnumValue playlist - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1959766256 - EnumValue 58110529 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>track</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SBC Search Type - EnumValue track - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1959766256 - EnumValue 180066621 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>show</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SBC Search Type - EnumValue show - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1959766256 - EnumValue 4124301019 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>episode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SBC Search Type - EnumValue episode - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
