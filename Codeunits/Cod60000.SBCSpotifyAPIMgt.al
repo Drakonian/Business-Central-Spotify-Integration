@@ -16,7 +16,7 @@ codeunit 60000 "SBC Spotify API Mgt"
 
         httpClient.DefaultRequestHeaders().Add(
                     'Authorization',
-                    'Bearer ' + GetSpotifyAccessToken());
+                    SecretStrSubstNo('Bearer %1', GetSpotifyAccessToken()));
 
         if httpClient.Get(requestUri, httpResponseMessage) then begin
             httpResponseMessage.Content().ReadAs(Data);
@@ -60,7 +60,7 @@ codeunit 60000 "SBC Spotify API Mgt"
 
         client.DefaultRequestHeaders().Add(
                 'Authorization',
-                'Bearer ' + GetSpotifyAccessToken());
+                SecretStrSubstNo('Bearer %1', GetSpotifyAccessToken()));
         client.Send(request, response);
 
         response.Content().ReadAs(responseText);
@@ -72,20 +72,36 @@ codeunit 60000 "SBC Spotify API Mgt"
         exit(responseText);
     end;
 
-    procedure GetSpotifyAccessToken(): Text
+    procedure GetSpotifyAccessToken(): SecretText
     var
         SBCSpotifyGeneralSetup: Record "SBC Spotify General Setup";
-        OAuth20Application: Record "OAuth 2.0 Application";
-        OAuth20AppHelper: Codeunit "OAuth 2.0 App. Helper";
+        OAuth2: Codeunit OAuth2;
         MessageText: Text;
+        AccessToken: SecretText;
+        ErrorContent: Text;
+        IsSuccess: Boolean;
+        ListOfScopes: List of [Text];
     begin
         SBCSpotifyGeneralSetup.Get();
-        SBCSpotifyGeneralSetup.TestField("Spotify OAuth settings");
-        OAuth20Application.Get(SBCSpotifyGeneralSetup."Spotify OAuth settings");
-        if not OAuth20AppHelper.RequestAccessToken(OAuth20Application, MessageText) then
-            Error(MessageText);
+        SBCSpotifyGeneralSetup.TestField("Client Id");
+        ListOfScopes.Add(SBCSpotifyGeneralSetup.Scope);
+        ClearLastError();
 
-        exit(OAuth20AppHelper.GetAccessToken(OAuth20Application));
+        case SBCSpotifyGeneralSetup."Grant Type" of
+            SBCSpotifyGeneralSetup."Grant Type"::"Authorization Code":
+                IsSuccess := OAuth2.AcquireTokenByAuthorizationCode(SBCSpotifyGeneralSetup."Client ID",
+                     SBCSpotifyGeneralSetup.GetSecret(), SBCSpotifyGeneralSetup."Authorization URL",
+                     SBCSpotifyGeneralSetup."Redirect URL", ListOfScopes, Enum::"Prompt Interaction"::None, AccessToken, ErrorContent);
+            SBCSpotifyGeneralSetup."Grant Type"::"Client Credentials":
+                IsSuccess := OAuth2.AcquireTokenWithClientCredentials(SBCSpotifyGeneralSetup."Client ID",
+                   SBCSpotifyGeneralSetup.GetSecret(), SBCSpotifyGeneralSetup."Authorization URL",
+                   SBCSpotifyGeneralSetup."Redirect URL", ListOfScopes, AccessToken);
+        end;
+
+        if not IsSuccess then
+            Error('Error: \%1', GetLastErrorText());
+
+        exit(AccessToken);
     end;
 
     procedure GetMyPlaylists()

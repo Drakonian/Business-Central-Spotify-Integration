@@ -120,7 +120,6 @@ page 60002 "SBC Tracks"
         }
     }
     var
-        [InDataSet]
         RunnedFromPlayList: Boolean;
         PlaylistId: Text;
 
